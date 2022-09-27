@@ -6,3 +6,4 @@ used node express mongo and rest.
 3. node index 
 
 can test on rest file.
+fix schema
